@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hikiragi
 - 👀 I am interested in learning programming and layout
-- 🌱 I am currently a first-year student at the University, at the Faculty of Applied Informatics
+- 🌱 I am currently a four-year student at the University, at the Faculty of Applied Informatics
 - 📫 You can contact me in my telegram account (https://t.me/GamdjiyanDV ) or write to the mail (gamdjiyan@bk.ru )
 
 <!---
