@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Hikiragi
-- 👀 I am interested in learning programming and layout
-- 🌱 I am currently a fourth year student at the University, at the Faculty of Applied Informatics
-- 📫 You can contact me in my telegram account (https://t.me/GamdjiyanDV ) or write to the mail (gamdjiyan@bk.ru )
+👋 Hi, I’m @Hikiragi
+👀 I am interested in programming, backend development, and exploring new technologies
+🌱 I am currently a second-year Master’s student at the Faculty of Informatics and Computer Engineering (ICE)
+🐍 I’ve reached the Middle level as a Python developer
+🦀 I’m currently learning Rust
+📫 You can contact me in my Telegram account () or write to my email ()
 
 <!---
 Hikiragi/Hikiragi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
